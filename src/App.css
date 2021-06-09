@@ -1,0 +1,18 @@
+.app{
+  background-color: rgb(197, 190, 190);
+  height: 100vh;
+  display: flex;
+  display: grid;
+  place-items: center;
+}
+.app_body{
+  display: flex;
+  width: 90vw;
+  height: 90vh;
+  background-color: rgb(250, 0, 0);
+  margin-top: -20px;
+}
+.chat_receiver{
+  background-color: green;
+  margin-left: auto;
+}

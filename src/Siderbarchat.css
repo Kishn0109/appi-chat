@@ -1,0 +1,19 @@
+.sidebarChat{
+    display:flex;
+    padding: 20px;
+cursor: pointer;
+align-items: center;
+
+}
+.sidebarChat:hover{
+    background-color: whitesmoke;
+}
+.sidebarchat_info{
+    /* text-align: center; */
+    padding-left: 15px;
+}
+#text{
+    text-align: center;
+    align-items: center;
+    color: whitesmoke;
+}
