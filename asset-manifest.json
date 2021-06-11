@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/appi-chat/static/css/main.42476386.chunk.css",
+    "main.js": "/appi-chat/static/js/main.2af2c33a.chunk.js",
+    "main.js.map": "/appi-chat/static/js/main.2af2c33a.chunk.js.map",
+    "runtime-main.js": "/appi-chat/static/js/runtime-main.85b41236.js",
+    "runtime-main.js.map": "/appi-chat/static/js/runtime-main.85b41236.js.map",
+    "static/js/2.debae592.chunk.js": "/appi-chat/static/js/2.debae592.chunk.js",
+    "static/js/2.debae592.chunk.js.map": "/appi-chat/static/js/2.debae592.chunk.js.map",
+    "static/js/3.bb71e284.chunk.js": "/appi-chat/static/js/3.bb71e284.chunk.js",
+    "static/js/3.bb71e284.chunk.js.map": "/appi-chat/static/js/3.bb71e284.chunk.js.map",
+    "index.html": "/appi-chat/index.html",
+    "static/css/main.42476386.chunk.css.map": "/appi-chat/static/css/main.42476386.chunk.css.map",
+    "static/js/2.debae592.chunk.js.LICENSE.txt": "/appi-chat/static/js/2.debae592.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.85b41236.js",
+    "static/js/2.debae592.chunk.js",
+    "static/css/main.42476386.chunk.css",
+    "static/js/main.2af2c33a.chunk.js"
+  ]
+}
